@@ -1,9 +1,9 @@
 ### Hello there, (No I'm not General Kenobi) I'm Adriel 👋
 
 ## I'm a Mid_Level Developer, Student and Gamer!
-- 🔭 I’m currently working at Avenue Code!
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate with other content creators.
+- 🔭 I’m currently working at self development!
+- 🌱 I’m currently learning Backend related stuff.
+- 👯 I’m looking to create code with 100% coverge.
 - ⚡ Fun fact: I love to play video games and try to make bots to play them for me.
 
 ### Connect with me:
