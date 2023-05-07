@@ -1,6 +1,6 @@
 ### Hello there, (No I'm not General Kenobi) I'm Adriel 👋
 
-## I'm a Mid_Level Developer, Student and Gamer!
+## I'm a Full-Stack Software Engineer!
 - 🔭 I’m currently working at self development!
 - 🌱 I’m currently learning Backend related stuff.
 - 👯 I’m looking to create code with 100% coverge.
